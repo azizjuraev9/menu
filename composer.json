@@ -1,0 +1,22 @@
+{
+  "name": "juraev/menu",
+  "description": "Sortable menu editor",
+  "type": "yii2-extension",
+  "require": {
+    "php": ">=7.2.0",
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Aziz Juraev",
+      "email": "azijuraev9@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "juraev\\yii2dp\\": ""
+    }
+  }
+}
